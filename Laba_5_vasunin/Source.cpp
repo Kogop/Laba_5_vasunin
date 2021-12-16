@@ -5,9 +5,9 @@ using namespace std;
 double n = 0;
 double res = 0;
 
-double Factorial(double n) {
-	return (n == 0) ? 1 : n * Factorial(n - 1);
-};
+//double Factorial(double n) {
+//	return (n == 0) ? 1 : n * Factorial(n - 1);
+//};
 
 int main() {
 
